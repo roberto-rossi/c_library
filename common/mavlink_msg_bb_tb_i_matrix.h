@@ -1,6 +1,6 @@
 // MESSAGE BB_TB_I_MATRIX PACKING
 
-#define MAVLINK_MSG_ID_BB_TB_I_MATRIX 231
+#define MAVLINK_MSG_ID_BB_TB_I_MATRIX 232
 
 typedef struct __mavlink_bb_tb_i_matrix_t
 {
@@ -9,10 +9,10 @@ typedef struct __mavlink_bb_tb_i_matrix_t
 } mavlink_bb_tb_i_matrix_t;
 
 #define MAVLINK_MSG_ID_BB_TB_I_MATRIX_LEN 200
-#define MAVLINK_MSG_ID_231_LEN 200
+#define MAVLINK_MSG_ID_232_LEN 200
 
 #define MAVLINK_MSG_ID_BB_TB_I_MATRIX_CRC 227
-#define MAVLINK_MSG_ID_231_CRC 227
+#define MAVLINK_MSG_ID_232_CRC 227
 
 #define MAVLINK_MSG_BB_TB_I_MATRIX_FIELD_VALUE_LEN 48
 

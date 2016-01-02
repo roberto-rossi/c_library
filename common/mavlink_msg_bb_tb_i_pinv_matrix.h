@@ -1,6 +1,6 @@
 // MESSAGE BB_TB_I_PINV_MATRIX PACKING
 
-#define MAVLINK_MSG_ID_BB_TB_I_PINV_MATRIX 232
+#define MAVLINK_MSG_ID_BB_TB_I_PINV_MATRIX 233
 
 typedef struct __mavlink_bb_tb_i_pinv_matrix_t
 {
@@ -9,10 +9,10 @@ typedef struct __mavlink_bb_tb_i_pinv_matrix_t
 } mavlink_bb_tb_i_pinv_matrix_t;
 
 #define MAVLINK_MSG_ID_BB_TB_I_PINV_MATRIX_LEN 200
-#define MAVLINK_MSG_ID_232_LEN 200
+#define MAVLINK_MSG_ID_233_LEN 200
 
 #define MAVLINK_MSG_ID_BB_TB_I_PINV_MATRIX_CRC 106
-#define MAVLINK_MSG_ID_232_CRC 106
+#define MAVLINK_MSG_ID_233_CRC 106
 
 #define MAVLINK_MSG_BB_TB_I_PINV_MATRIX_FIELD_VALUE_LEN 48
 

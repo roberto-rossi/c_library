@@ -1,6 +1,6 @@
 // MESSAGE G_MATRIX PACKING
 
-#define MAVLINK_MSG_ID_G_MATRIX 234
+#define MAVLINK_MSG_ID_G_MATRIX 235
 
 typedef struct __mavlink_g_matrix_t
 {
@@ -9,10 +9,10 @@ typedef struct __mavlink_g_matrix_t
 } mavlink_g_matrix_t;
 
 #define MAVLINK_MSG_ID_G_MATRIX_LEN 48
-#define MAVLINK_MSG_ID_234_LEN 48
+#define MAVLINK_MSG_ID_235_LEN 48
 
 #define MAVLINK_MSG_ID_G_MATRIX_CRC 233
-#define MAVLINK_MSG_ID_234_CRC 233
+#define MAVLINK_MSG_ID_235_CRC 233
 
 #define MAVLINK_MSG_G_MATRIX_FIELD_VALUE_LEN 10
 

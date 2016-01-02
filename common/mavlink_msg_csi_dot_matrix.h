@@ -1,6 +1,6 @@
 // MESSAGE CSI_DOT_MATRIX PACKING
 
-#define MAVLINK_MSG_ID_CSI_DOT_MATRIX 238
+#define MAVLINK_MSG_ID_CSI_DOT_MATRIX 239
 
 typedef struct __mavlink_csi_dot_matrix_t
 {
@@ -9,10 +9,10 @@ typedef struct __mavlink_csi_dot_matrix_t
 } mavlink_csi_dot_matrix_t;
 
 #define MAVLINK_MSG_ID_CSI_DOT_MATRIX_LEN 52
-#define MAVLINK_MSG_ID_238_LEN 52
+#define MAVLINK_MSG_ID_239_LEN 52
 
 #define MAVLINK_MSG_ID_CSI_DOT_MATRIX_CRC 33
-#define MAVLINK_MSG_ID_238_CRC 33
+#define MAVLINK_MSG_ID_239_CRC 33
 
 #define MAVLINK_MSG_CSI_DOT_MATRIX_FIELD_VALUE_LEN 11
 
